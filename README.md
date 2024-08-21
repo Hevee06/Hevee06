@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou estudante de Ciência da Computação, focada em expandir minhas habilidades em desenvolvimento backend. Tenho um forte interesse por arquitetura de software, banco de dados e otimização de sistemas. Estou constantemente explorando novas tecnologias e práticas de programação para criar soluções escaláveis e eficientes. Apaixonada por resolver problemas complexos, busco transformar teorias acadêmicas em aplicações práticas, contribuindo para projetos que vão desde APIs robustas até sistemas distribuídos.</h4>
+<h4 align="left">Computer Science student, focused on expanding my skills in backend development. I have a strong interest in software architecture, database, and systems optimization. I'm constantly exploring new technologies and programming practices to create scalable and efficient solutions. Passionate about solving complex problems, I seek to transform academic theories into practical applications, contributing to projects ranging from robust APIs to distributed systems.</h4>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Computer Science student, focused on expanding my skills in backend development. I have a strong interest in software architecture, database, and systems optimization. I'm constantly exploring new technologies and programming practices to create scalable and efficient solutions. Passionate about solving complex problems, I seek to transform academic theories into practical applications, contributing to projects ranging from robust APIs to distributed systems.</h4>
+<h4 align="left">I am a Computer Science student focused on expanding my skills in backend development. I have a strong interest in software architecture, databases, and systems optimization. I’m constantly exploring new technologies and programming practices to create scalable and efficient solutions. Passionate about solving complex problems, I aim to transform academic theories into practical applications, contributing to projects ranging from robust APIs to distributed systems.</h4>
 
 ###
 

@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="29" alt="photoshop logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="29" alt="docker logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" heigth="29" alt="sqlite logo" />
 </div>
 
 ###

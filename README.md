@@ -1,8 +1,48 @@
-<h1 align="left">Hevellyn Monteiro</h1>
+# 💻 Hevellyn Monteiro
 
-###
+**`Developer`**
 
-<h4 align="left">I am a Computer Science student focused on expanding my skills in backend development. I have a strong interest in software architecture, databases, and systems optimization. I’m constantly exploring new technologies and programming practices to create scalable and efficient solutions. Passionate about solving complex problems, I aim to transform academic theories into practical applications, contributing to projects ranging from robust APIs to distributed systems.</h4>
+I’m a Computer Science student passionate about backend development and process automation. I enjoy working with software architecture, databases, and finding innovative ways to optimize systems. With a natural curiosity, I’m always eager to explore new tools and techniques to create efficient, automated solutions. Problem-solving excites me, and I’m focused on turning creative ideas into impactful, real-world projects.
+
+---
+
+### 🤖 Languages ​​and Techs
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000"
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+/>
 
 ###
 
@@ -13,15 +53,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+
 
 ###
 
